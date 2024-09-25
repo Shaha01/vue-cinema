@@ -137,3 +137,9 @@
         max-width: 300px;
     }
 }
+
+@media (max-width: 500px) {
+    .intro-img{
+        max-width: 250px;
+    }
+}
