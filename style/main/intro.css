@@ -133,4 +133,7 @@
     .collection-catalog{
         grid-template-columns: repeat(1, 1fr);
     }
+    .intro-img{
+        max-width: 300px;
+    }
 }
